@@ -1,0 +1,10 @@
+# Redshift
+DB_USER = ''
+DB_HOST = ''
+DB_PWD = ''
+DB_NAME = ''
+DB_PORT = 
+
+# where table counts data are written
+target_table = 'table_counts_by_schema'
+target_schema = ''
